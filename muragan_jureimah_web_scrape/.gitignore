@@ -2,3 +2,4 @@ venv
 *.json
 requirements.txt
 __pycache__
+.gitignore
