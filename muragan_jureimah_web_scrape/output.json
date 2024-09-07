@@ -1,0 +1,97 @@
+{
+    "30-31-10": {
+        "30-31-10": {
+            "unavailable": "No hotels are available for your chosen dates. Please change your dates"
+        }
+    },
+    "31-01-10": {
+        "Family Superior": {
+            "price": "EUR 1,144",
+            "room_size": "60 sqm"
+        },
+        "Pool Terrace": {
+            "price": "EUR 1,298",
+            "room_size": "64 sqm"
+        },
+        "Ocean Club Terrace": {
+            "price": "EUR 1,811",
+            "room_size": "103 sqm"
+        },
+        "Burj View Suite": {
+            "price": "EUR 4,170",
+            "room_size": "220 sqm"
+        }
+    },
+    "01-02-11": {
+        "Resort Deluxe": {
+            "price": "EUR 1,624",
+            "room_size": "60 sqm"
+        },
+        "Family Superior": {
+            "price": "EUR 1,732",
+            "room_size": "60 sqm"
+        },
+        "Ocean Deluxe": {
+            "price": "EUR 2,165",
+            "room_size": "60 sqm"
+        },
+        "Pool Terrace": {
+            "price": "EUR 2,382",
+            "room_size": "64 sqm"
+        },
+        "Ocean Club Superior": {
+            "price": "EUR 2,490",
+            "room_size": "60 sqm"
+        },
+        "Ocean Club Terrace": {
+            "price": "EUR 2,620",
+            "room_size": "103 sqm"
+        },
+        "Ocean Suite": {
+            "price": "EUR 5,521",
+            "room_size": "215 sqm"
+        },
+        "Gulf Ocean Suite": {
+            "price": "EUR 5,737",
+            "room_size": "150 sqm"
+        },
+        "Burj View Suite": {
+            "price": "EUR 6,387",
+            "room_size": "220 sqm"
+        }
+    },
+    "02-03-11": {
+        "Family Superior": {
+            "price": "EUR 1,624",
+            "room_size": "60 sqm"
+        },
+        "Pool Terrace": {
+            "price": "EUR 2,382",
+            "room_size": "64 sqm"
+        },
+        "Ocean Deluxe": {
+            "price": "EUR 2,406",
+            "room_size": "60 sqm"
+        },
+        "Ocean Club Superior": {
+            "price": "EUR 2,490",
+            "room_size": "60 sqm"
+        },
+        "Ocean Club Terrace": {
+            "price": "EUR 2,620",
+            "room_size": "103 sqm"
+        },
+        "Ocean Suite": {
+            "price": "EUR 5,053",
+            "room_size": "215 sqm"
+        },
+        "Gulf Ocean Suite": {
+            "price": "EUR 5,270",
+            "room_size": "150 sqm"
+        },
+        "Burj View Suite": {
+            "price": "EUR 5,919",
+            "room_size": "220 sqm"
+        }
+    }
+}
